@@ -1,0 +1,17 @@
+Options +FollowSymLinks
+IndexIgnore */*
+RewriteEngine On
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+</IfModule>
+RewriteCond %{REQUEST_URI} !^(public)
+RewriteRule ^assets/(.*)$ public/assets/$1 [L]
+RewriteRule ^css/(.*)$ public/assets/css/$1 [L]
+RewriteRule ^js/(.*)$ public/assets/js/$1 [L]
+RewriteRule ^fonts/(.*)$ public/assets/fonts/$1 [L]
+RewriteRule ^images/(.*)$ public/assets/images/$1 [L]
+RewriteRule (.*) public/$1
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . public/index.php

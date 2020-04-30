@@ -1,0 +1,87 @@
+{
+    "logged-out-modal": "You have logged out",
+    "logged-in-modal": "You have logged in",
+    "my_account": "MY ACCOUNT",
+    "login": "LOG IN",
+    "logout": "LOGOUT",
+    "call_us": "Call us now",
+    "login_modal_title": "Login",
+    "register_modal_title": "Register",
+    "home_link": "Home",
+    "admin_link": "Admin Panel",
+    "products_link": "Products",
+    "contacts_link": "Contacts",
+    "about_link": "About us",
+    "search_place": "Search...",
+    "all_cats": "All Categories",
+    "sub_news": "SUBSCRIBE NEWSLETTER",
+    "news_info": "Get all the latest information on Events,Sales and Offers. Sign up for newsletter today",
+    "email_place": "Email address",
+    "sub_btn": "subscribe",
+    "contact_us": "contact us",
+    "copy": "All Rights Reserved",
+
+    "cart_total": "Total",
+    "cart_check": "Checkout",
+    "cart_view": "View Cart",
+
+    "categories": "Categories",
+    "load_more": "Load More ...",
+    "sort_def": "Default sorting",
+    "sort_new": "Sort by newness",
+    "sort_low": "Sort by price: low to high",
+    "sort_high": "Sort by price: high to low",
+
+    "filter": "Filter",
+    "price": "Price",
+    "color": "Color",
+
+    "contact_write_us1": "Write",
+    "contact_write_us2": "Us",
+
+    "form_name": "Name",
+    "form_email": "Email",
+    "form_phone": "Phone Number",
+    "form_mind": "What’s on your mind?",
+    "form_submit": "Submit",
+
+    "add_to_cart": "ADD TO CART",
+    "add_to_wish": "Add to Wishlist",
+    "dress_room": "Dress Room",
+
+    "share": "Share",
+
+    "reviews": "Reviews",
+    "reviews2": "Reviews",
+
+    "description": "Description",
+    "size_guide": "Size Guide",
+
+    "slider_1_1": "80% off for select items",
+    "slider_1_2": "fashion mega sale",
+    "slider_2_1": "up to 70% off",
+    "slider_2_2": "Women's Hats",
+
+    "star": "star",
+    "stars": "stars",
+    "stars2": "stars",
+    "quality": "Quality",
+    "value": "Value",
+
+    "select_width": "Select Width",
+    "select_height": "Select Height",
+    "get_size": "Get Size",
+
+    "best_size": "Best Size for you is",
+    "best_mark": "Mark of this size is",
+
+    "width_params": "Width parameters",
+    "best_size_by_width": "Best size by width",
+    "width_rating": "Width rating",
+    "height_params": "Height parameters",
+    "best_size_by_height": "Best size by height",
+    "height_rating": "Height rating",
+
+    "edit_data": "Edit your data",
+    "select_size": "Select size"
+}
